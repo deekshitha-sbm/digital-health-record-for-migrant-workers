@@ -1,1 +1,1 @@
-https://alpha.dualite.dev/chat/migrant-health-system-2 digital-health-record-for-migrant-workers
+http://localhost:5000 #digital-health-record-for-migrant-workers
